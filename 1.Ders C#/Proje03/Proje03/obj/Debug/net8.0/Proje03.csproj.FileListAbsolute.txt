@@ -1,0 +1,14 @@
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\bin\Debug\net8.0\Proje03.exe
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\bin\Debug\net8.0\Proje03.deps.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\bin\Debug\net8.0\Proje03.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\bin\Debug\net8.0\Proje03.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\bin\Debug\net8.0\Proje03.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\refint\Proje03.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\Proje03.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje03\Proje03\obj\Debug\net8.0\ref\Proje03.dll

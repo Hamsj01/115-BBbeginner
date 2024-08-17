@@ -1,0 +1,14 @@
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.exe
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.deps.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\bin\Debug\net8.0\Proje02_WithMainMethod.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\refint\Proje02_WithMainMethod.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\Proje02_WithMainMethod.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje02_WithMainMethod\obj\Debug\net8.0\ref\Proje02_WithMainMethod.dll

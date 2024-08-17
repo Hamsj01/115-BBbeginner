@@ -1,0 +1,14 @@
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\bin\Debug\net8.0\Proje01_Intro.exe
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\bin\Debug\net8.0\Proje01_Intro.deps.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\bin\Debug\net8.0\Proje01_Intro.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\bin\Debug\net8.0\Proje01_Intro.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\bin\Debug\net8.0\Proje01_Intro.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\refint\Proje01_Intro.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\Proje01_Intro.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje01_Intro\obj\Debug\net8.0\ref\Proje01_Intro.dll

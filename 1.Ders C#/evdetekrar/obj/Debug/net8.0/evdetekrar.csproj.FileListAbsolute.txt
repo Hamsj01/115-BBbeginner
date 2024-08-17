@@ -1,0 +1,14 @@
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\bin\Debug\net8.0\evdetekrar.exe
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\bin\Debug\net8.0\evdetekrar.deps.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\bin\Debug\net8.0\evdetekrar.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\bin\Debug\net8.0\evdetekrar.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\bin\Debug\net8.0\evdetekrar.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\refint\evdetekrar.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\evdetekrar.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\evdetekrar\obj\Debug\net8.0\ref\evdetekrar.dll
