@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\bin\Debug\net8.0\Proje04_ConvertTypes.exe
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\bin\Debug\net8.0\Proje04_ConvertTypes.deps.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\bin\Debug\net8.0\Proje04_ConvertTypes.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\bin\Debug\net8.0\Proje04_ConvertTypes.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\bin\Debug\net8.0\Proje04_ConvertTypes.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\refint\Proje04_ConvertTypes.dll
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.pdb
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\Proje04_ConvertTypes.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115BackendBootcamp\1.Ders C#\Proje04_ConvertTypes\obj\Debug\net8.0\ref\Proje04_ConvertTypes.dll
