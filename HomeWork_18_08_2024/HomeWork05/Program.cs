@@ -7,6 +7,9 @@ class Program
         bool a=true;     // değişkenlere a ve b dedim 
         bool b=false;
         System.Console.WriteLine(a);
-        System.Console.WriteLine(b);  
+        System.Console.WriteLine(b);
+
+        //çıktı True
+        //      False
     }
 }

@@ -10,5 +10,7 @@ class Program
         Console.Write(ad);
         Console.Write(" yaşım ");
         Console.Write(yas);
+
+        //çıktı: Benim adım Miraç yaşım 25
     }
 }

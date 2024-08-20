@@ -6,6 +6,8 @@ class Program
     {
     double j=1.41;        //kok2Yaklasik değerine j
     double jKare=(j*j);   //kok2Yaklasik değerinin karesi de jKare olsun
-    System.Console.WriteLine(jKare);  
+    System.Console.WriteLine(jKare);
+
+        // çıktı: 1,9880999999999998
     }
 }

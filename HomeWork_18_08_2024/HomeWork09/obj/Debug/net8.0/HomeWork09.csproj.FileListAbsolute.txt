@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\bin\Debug\net8.0\HomeWork09.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\bin\Debug\net8.0\HomeWork09.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\bin\Debug\net8.0\HomeWork09.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\bin\Debug\net8.0\HomeWork09.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\bin\Debug\net8.0\HomeWork09.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\refint\HomeWork09.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\HomeWork09.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\HomeWork_18_08_2024\HomeWork09\obj\Debug\net8.0\ref\HomeWork09.dll

@@ -7,5 +7,7 @@ class Program
         char harf='M';
         int asciiDeger= (harf);
         System.Console.WriteLine(asciiDeger);
+
+        // çıktı:77
     }
 }
