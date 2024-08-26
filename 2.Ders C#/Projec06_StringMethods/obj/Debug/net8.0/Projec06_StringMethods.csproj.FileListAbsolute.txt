@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\bin\Debug\net8.0\Projec06_StringMethods.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\bin\Debug\net8.0\Projec06_StringMethods.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\bin\Debug\net8.0\Projec06_StringMethods.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\bin\Debug\net8.0\Projec06_StringMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\bin\Debug\net8.0\Projec06_StringMethods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\refint\Projec06_StringMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\Projec06_StringMethods.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec06_StringMethods\obj\Debug\net8.0\ref\Projec06_StringMethods.dll

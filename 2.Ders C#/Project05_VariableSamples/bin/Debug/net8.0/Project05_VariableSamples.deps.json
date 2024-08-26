@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project05_VariableSamples/1.0.0": {
+        "runtime": {
+          "Project05_VariableSamples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project05_VariableSamples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

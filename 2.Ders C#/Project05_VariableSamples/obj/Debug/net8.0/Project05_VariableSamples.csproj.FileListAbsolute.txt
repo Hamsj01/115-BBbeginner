@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\bin\Debug\net8.0\Project05_VariableSamples.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\bin\Debug\net8.0\Project05_VariableSamples.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\bin\Debug\net8.0\Project05_VariableSamples.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\bin\Debug\net8.0\Project05_VariableSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\bin\Debug\net8.0\Project05_VariableSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\refint\Project05_VariableSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\Project05_VariableSamples.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Project05_VariableSamples\obj\Debug\net8.0\ref\Project05_VariableSamples.dll
