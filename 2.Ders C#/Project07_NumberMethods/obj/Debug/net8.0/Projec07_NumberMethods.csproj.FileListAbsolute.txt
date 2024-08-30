@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\bin\Debug\net8.0\Projec07_NumberMethods.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\bin\Debug\net8.0\Projec07_NumberMethods.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\bin\Debug\net8.0\Projec07_NumberMethods.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\bin\Debug\net8.0\Projec07_NumberMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\bin\Debug\net8.0\Projec07_NumberMethods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\refint\Projec07_NumberMethods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\Projec07_NumberMethods.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\2.Ders C#\Projec07_NumberMethods\obj\Debug\net8.0\ref\Projec07_NumberMethods.dll

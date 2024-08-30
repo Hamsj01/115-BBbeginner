@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Projec06_StringMethods\\Projec06_StringMethods.csproj": {}
+    "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Project08_DateTimes\\Project08_DateTimes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Projec06_StringMethods\\Projec06_StringMethods.csproj": {
+    "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Project08_DateTimes\\Project08_DateTimes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Projec06_StringMethods\\Projec06_StringMethods.csproj",
-        "projectName": "Projec06_StringMethods",
-        "projectPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Projec06_StringMethods\\Projec06_StringMethods.csproj",
+        "projectUniqueName": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Project08_DateTimes\\Project08_DateTimes.csproj",
+        "projectName": "Project08_DateTimes",
+        "projectPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Project08_DateTimes\\Project08_DateTimes.csproj",
         "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Projec06_StringMethods\\obj\\",
+        "outputPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\2.Ders C#\\Project08_DateTimes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config",
