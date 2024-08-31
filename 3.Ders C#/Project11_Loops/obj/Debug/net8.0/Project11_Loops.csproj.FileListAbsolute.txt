@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\bin\Debug\net8.0\Project11_Loops.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\bin\Debug\net8.0\Project11_Loops.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\bin\Debug\net8.0\Project11_Loops.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\bin\Debug\net8.0\Project11_Loops.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\bin\Debug\net8.0\Project11_Loops.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\refint\Project11_Loops.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\Project11_Loops.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project11_Loops\obj\Debug\net8.0\ref\Project11_Loops.dll

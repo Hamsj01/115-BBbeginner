@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\bin\Debug\net8.0\Project10_ErrorHandling.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\bin\Debug\net8.0\Project10_ErrorHandling.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\bin\Debug\net8.0\Project10_ErrorHandling.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\bin\Debug\net8.0\Project10_ErrorHandling.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\bin\Debug\net8.0\Project10_ErrorHandling.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\refint\Project10_ErrorHandling.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\Project10_ErrorHandling.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project10_ErrorHandiing\obj\Debug\net8.0\ref\Project10_ErrorHandling.dll
