@@ -1,4 +1,7 @@
-﻿namespace Project11_Loops;
+﻿using System.Linq.Expressions;
+using System.Numerics;
+
+namespace Project11_Loops;
 
 class Program
 {
@@ -113,25 +116,26 @@ class Program
         // Kullanıcıdan arka arakya alınacak sayıalrı toplayan kodu hazırlayınız. Ancak kullanıcının girdiği sayıların toplamı 100'den büyük veya eşitse program sona ersin toplamı ekrana yazsın.
 
 
-        int a=0;
-        string input="";
-        while (a=100)
+        int toplam=0;
+        while (toplam<100)
         {
-            System.Console.WriteLine("Toplamı 100'den küçük sayılar girin.");
-            input=Console.ReadLine();
-            if (int.TryParse(input, out int intputNumber))
+            System.Console.WriteLine("Selamlar toplamları 100'den küçük bir sayılar girin: ");
+            int sayi=int.Parse(Console.ReadLine());
+            toplam+=sayi;
+            System.Console.WriteLine(toplam);
+            if (toplam>=100)
             {
-                a +=intputNumber;
+            System.Console.WriteLine("hooop");
             }
-            else if (input = 100)
+        }
+        
 
-            {
-                System.Console.WriteLine("");
-            }
+                 
+        
         }
 
 
-        System.Console.WriteLine($"Toplam: {total}");
+        
         #endregion
     }
-}
+

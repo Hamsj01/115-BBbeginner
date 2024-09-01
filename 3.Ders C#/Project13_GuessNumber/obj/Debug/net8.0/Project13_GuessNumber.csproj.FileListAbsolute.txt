@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\bin\Debug\net8.0\Project13_GuessNumber.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\bin\Debug\net8.0\Project13_GuessNumber.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\bin\Debug\net8.0\Project13_GuessNumber.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\bin\Debug\net8.0\Project13_GuessNumber.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\bin\Debug\net8.0\Project13_GuessNumber.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\refint\Project13_GuessNumber.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\Project13_GuessNumber.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project13_GuessNumber\obj\Debug\net8.0\ref\Project13_GuessNumber.dll

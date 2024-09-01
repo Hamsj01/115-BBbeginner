@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\bin\Debug\net8.0\Project12_Loopss.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\bin\Debug\net8.0\Project12_Loopss.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\bin\Debug\net8.0\Project12_Loopss.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\bin\Debug\net8.0\Project12_Loopss.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\bin\Debug\net8.0\Project12_Loopss.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\refint\Project12_Loopss.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\Project12_Loopss.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\3.Ders C#\Project12_Loopss\obj\Debug\net8.0\ref\Project12_Loopss.dll
