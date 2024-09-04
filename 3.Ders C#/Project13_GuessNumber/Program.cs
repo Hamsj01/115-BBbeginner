@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
+         string restartMessage="tekrar";
+        string yaz=default;
+        do
+        {
         Random rnd= new Random(); // rnd int tipinde rasgele sayı
         int generatedNumber = rnd.Next(1, 101);
         System.Console.WriteLine($"Hile: {generatedNumber}");
@@ -14,10 +18,9 @@ class Program
         int live=1;
         int liveLimit=5;
         string resultMessage= "";
-        
-
-        do
-        {
+       
+            do
+            {
             Console.Write($"{live}.Hak(1-100): ");
             guessNumber=int.Parse(Console.ReadLine());
             if (guessNumber < generatedNumber)
@@ -40,16 +43,9 @@ class Program
         } while (guessNumber!=generatedNumber && live<=liveLimit);
         resultMessage=guessNumber==generatedNumber?$"Kazandın :\nPuanın: {(liveLimit+1 - live)*10}":"Kaybettin";
         System.Console.WriteLine(resultMessage);
-        System.Console.WriteLine("Tekrar oynamak için Evet yaz.");
-        System.Console.WriteLine("Çıkış için Enter");
-        System.Console.ReadLine();
-        do
-        {
-            if (Console.ReadLine)
-            {
-                
-            }
-        } while (true);
+        System.Console.WriteLine("Tekrar oynamak için tekrar yaz.");
+        yaz=Console.ReadLine();
+        } while (yaz==restartMessage);
     }
 }
 /*
