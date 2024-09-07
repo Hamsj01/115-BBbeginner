@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\bin\Debug\net8.0\Project14_Arrays.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\bin\Debug\net8.0\Project14_Arrays.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\bin\Debug\net8.0\Project14_Arrays.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\bin\Debug\net8.0\Project14_Arrays.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\bin\Debug\net8.0\Project14_Arrays.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\refint\Project14_Arrays.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\Project14_Arrays.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\obj\Debug\net8.0\ref\Project14_Arrays.dll
