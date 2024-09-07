@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\bin\Debug\net8.0\Project15_CreateAndAssignTeam.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\bin\Debug\net8.0\Project15_CreateAndAssignTeam.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\bin\Debug\net8.0\Project15_CreateAndAssignTeam.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\bin\Debug\net8.0\Project15_CreateAndAssignTeam.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\bin\Debug\net8.0\Project15_CreateAndAssignTeam.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\refint\Project15_CreateAndAssignTeam.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\Project15_CreateAndAssignTeam.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project14_Arrays\Project15_CreateAndAssignTeam\obj\Debug\net8.0\ref\Project15_CreateAndAssignTeam.dll
