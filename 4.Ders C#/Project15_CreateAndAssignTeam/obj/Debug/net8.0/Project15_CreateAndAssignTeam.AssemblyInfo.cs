@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Project15_CreateAndAssignTeam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bb3e148f823837d5502b591d78c6f0028e829c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f8b5b23ff0fb3de2f6a094785385bbb162b97d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Project15_CreateAndAssignTeam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Project15_CreateAndAssignTeam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

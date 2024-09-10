@@ -28,7 +28,7 @@ class Program
         string currentTeamName;
         for(int i=0; i<students.Length;i+=4)
         {
-           currentTeamName=teamNazmes[0] ;
+           currentTeamName=teamNazmes[i] ;
            
            System.Console.WriteLine($"Takım Adı: {currentTeamName} ");
            for (int j = 0; j < memberCount; j++)
