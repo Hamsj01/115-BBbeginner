@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project15_CreateAndAssignTeam
+<<<<<<< HEAD:4.Ders C#/Project19_CreateAndAssignTeam/obj/Debug/net8.0/Project15_CreateAndAssignTeam.GeneratedMSBuildEditorConfig.editorconfig
 build_property.ProjectDir = C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project19_CreateAndAssignTeam\
+=======
+build_property.ProjectDir = D:\Hamsj\115-BBbeginner\4.Ders C#\Project15_CreateAndAssignTeam\
+>>>>>>> e55640a8091e1baf362ec92025f5f9067ee09f8a:4.Ders C#/Project15_CreateAndAssignTeam/obj/Debug/net8.0/Project15_CreateAndAssignTeam.GeneratedMSBuildEditorConfig.editorconfig
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

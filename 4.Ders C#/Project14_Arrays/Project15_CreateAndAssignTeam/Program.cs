@@ -19,6 +19,7 @@ class Program
         string currentTeamName;
         for (int i = 0; i < students.Length; i += 4)
         {
+<<<<<<< HEAD
             currentTeamName = teamNazmes[i];
 
             System.Console.WriteLine($"Takım Adı: {currentTeamName} ");
@@ -27,6 +28,16 @@ class Program
                 System.Console.WriteLine($"\t\t-{students[i + j]}");
             }
             System.Console.WriteLine("-----------");
+=======
+           currentTeamName=teamNazmes[i] ;
+           
+           System.Console.WriteLine($"Takım Adı: {currentTeamName} ");
+           for (int j = 0; j < memberCount; j++)
+           {
+            System.Console.WriteLine($"\t\t-{students[i+j]}");
+           }
+           System.Console.WriteLine("-----------");
+>>>>>>> e55640a8091e1baf362ec92025f5f9067ee09f8a
         }
     }
 

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD:4.Ders C#/Project17_MethodOverloading/obj/project.nuget.cache
   "dgSpecHash": "2HB/sIqdxlw=",
   "success": true,
   "projectFilePath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\4.Ders C#\\Project17_MethodOverloading\\Project17_MethodOverloading.csproj",
+=======
+  "dgSpecHash": "rGqSCidLjf4=",
+  "success": true,
+  "projectFilePath": "D:\\Hamsj\\115-BBbeginner\\4.Ders C#\\Project15_CreateAndAssignTeam\\Project15_CreateAndAssignTeam.csproj",
+>>>>>>> e55640a8091e1baf362ec92025f5f9067ee09f8a:4.Ders C#/Project15_CreateAndAssignTeam/obj/project.nuget.cache
   "expectedPackageFiles": [],
   "logs": []
 }

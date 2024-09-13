@@ -13,22 +13,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:4.Ders C#/Project17_MethodOverloading/obj/project.assets.json
       "projectUniqueName": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\4.Ders C#\\Project17_MethodOverloading\\Project17_MethodOverloading.csproj",
       "projectName": "Project17_MethodOverloading",
       "projectPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\4.Ders C#\\Project17_MethodOverloading\\Project17_MethodOverloading.csproj",
       "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\4.Ders C#\\Project17_MethodOverloading\\obj\\",
+=======
+      "projectUniqueName": "D:\\Hamsj\\115-BBbeginner\\4.Ders C#\\Project15_CreateAndAssignTeam\\Project15_CreateAndAssignTeam.csproj",
+      "projectName": "Project15_CreateAndAssignTeam",
+      "projectPath": "D:\\Hamsj\\115-BBbeginner\\4.Ders C#\\Project15_CreateAndAssignTeam\\Project15_CreateAndAssignTeam.csproj",
+      "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
+      "outputPath": "D:\\Hamsj\\115-BBbeginner\\4.Ders C#\\Project15_CreateAndAssignTeam\\obj\\",
+>>>>>>> e55640a8091e1baf362ec92025f5f9067ee09f8a:4.Ders C#/Project15_CreateAndAssignTeam/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
