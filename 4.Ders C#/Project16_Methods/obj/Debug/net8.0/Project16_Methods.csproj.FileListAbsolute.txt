@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\bin\Debug\net8.0\Project16_Methods.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\bin\Debug\net8.0\Project16_Methods.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\bin\Debug\net8.0\Project16_Methods.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\bin\Debug\net8.0\Project16_Methods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\bin\Debug\net8.0\Project16_Methods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\refint\Project16_Methods.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\Project16_Methods.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project16_Methods\obj\Debug\net8.0\ref\Project16_Methods.dll

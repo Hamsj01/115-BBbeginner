@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\bin\Debug\net8.0\Project18_MethodSamples.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\bin\Debug\net8.0\Project18_MethodSamples.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\bin\Debug\net8.0\Project18_MethodSamples.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\bin\Debug\net8.0\Project18_MethodSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\bin\Debug\net8.0\Project18_MethodSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\refint\Project18_MethodSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\Project18_MethodSamples.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project18_MethodSamples\obj\Debug\net8.0\ref\Project18_MethodSamples.dll

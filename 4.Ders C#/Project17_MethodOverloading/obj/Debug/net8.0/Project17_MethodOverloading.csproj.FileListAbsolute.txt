@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\bin\Debug\net8.0\Project17_MethodOverloading.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\bin\Debug\net8.0\Project17_MethodOverloading.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\bin\Debug\net8.0\Project17_MethodOverloading.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\bin\Debug\net8.0\Project17_MethodOverloading.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\bin\Debug\net8.0\Project17_MethodOverloading.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\refint\Project17_MethodOverloading.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\Project17_MethodOverloading.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\4.Ders C#\Project17_MethodOverloading\obj\Debug\net8.0\ref\Project17_MethodOverloading.dll
