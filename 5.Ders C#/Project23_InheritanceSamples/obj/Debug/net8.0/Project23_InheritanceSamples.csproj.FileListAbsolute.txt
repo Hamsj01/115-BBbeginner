@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.exe
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.deps.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\bin\Debug\net8.0\Project23_InheritanceSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\refint\Project23_InheritanceSamples.dll
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.pdb
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\Project23_InheritanceSamples.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\115-BBbegineer\5.Ders C#\Project23_InheritanceSamples\obj\Debug\net8.0\ref\Project23_InheritanceSamples.dll
