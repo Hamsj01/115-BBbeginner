@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kişisel Web Sitesi</title>
+    <style>
+        * {
+            margin: 0px;
+            /*dış boşluk */
+            padding: 0px;
+            /* iç boşluk*/
+
+        }
+
+        body {
+            background-color: #e4e4e4;
+            font-family: 'Courier New';
+            color: #555;
+            font-size: 18px;
+        }
+
+        #head {
+            text-align: center;
+            padding: 20px 40px;
+            background-color: #555;
+            color: #FFF;
+
+            /* padding-top: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            padding-right: 20px; */
+            /* padding: 20px; */
+
+        }
+
+        h1 {
+            font-size: 48px;
+        }
+
+        h2 {
+            font-size: 36px;
+        }
+
+        #about,
+        #skills,
+        #links,
+        #profilePicture,
+        #contact {
+            background-color: #fff;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 30px;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 40);
+        }
+
+        #skillsContainer{
+            list-style-type: none;
+        }
+        .skills{
+            margin-bottom: 5px;
+        }
+
+        #links a{
+            text-decoration: none;
+            color: #0075ee;
+            font-weight: bold;
+            
+        }
+        #links a:hover{
+            color: #0665cc;
+        }
+        
+        #profilePicture img{
+            border-radius: 50%;
+        }
+
+        #contact form input,
+        #contact form textarea{
+            padding: 5px;
+            margin-top: 5px;
+        }
+
+
+        /* body{      
+             background-color: yellow;  arkaplanı sarı yaotı*
+        }
+        #head{       ıd
+            background-color: yellow;
+        }
+        .skills{     class seçmek
+            color: blue;
+        } */
+    </style>
+</head>
+
+<body>
+
+    <!-- Başlık Bölümü -->
+    <div id="head">
+        <!-- <h1 style="color: red; font-size: 60px;">Merhaba ben Kemal Kodyazan</h1> -->
+        <h1>Merhaba ben Kemal Kodyazan</h1>
+        <p>Yazılım Geliştirici | Teknoloji Aşığı | Spor Tutkunu</p>
+    </div>
+
+    <!-- KİŞİSEL BİLGİLER BÖLÜMÜ -->
+    <div id="about">
+        <h2>Hakkımda</h2>
+        <p>Merhaba! Ben Kemal Kodyazan. 5 yıldır yazılım gliştirici olarak çalışyorum. Çeşitli şirketlerde farklı
+            projelerde rol aldıktan sonra, şu günlerde bireysel olarak proje geliştiriyorum. Aynı zamanda spor ve
+            teknolojiye de meraklıyım.</p>
+    </div>
+
+    <!-- Yetenekler Bölümü-->
+
+    <div id="skills">
+        <h2>Yetenekler</h2>
+        <!-- ul>li*6 -->
+        <ul id="skillsContainer">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>AspNetCore MVC</li>
+            <li>AspNetCore API</li>
+        </ul>
+    </div>
+    <!-- Bağlantılar -->
+    <div id="links">
+        <h2>Benimle Bağlantı Kurun!</h2>
+        <div><a href="https://www.github.com" target="_blank">Github</a></div>
+        <div><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></div>
+    </div>
+
+    <!-- Görsel Bölümü -->
+    <div id="profilePicture">
+        <h2>Profil Fotoğrafı</h2>
+        <!-- <img src="https://placehold.co/200" alt=""> -->
+        <img src="https://picsum.photos/id/1/400/400" alt="">
+    </div>
+
+    <!-- İletişim Bölümü -->
+    <!-- #contact -->
+    <div id="contact">
+        <h2>Benimle İletişime Geçin</h2>
+        <form action="">
+            <div>
+                <label for="">Ad Soyad: </label>
+                <input type="text">
+            </div>
+
+            <div>
+                <label for="">Email:</label>
+                <input type="email">
+            </div>
+
+            <div>
+                <label for="">Mesaj:</label>
+                <textarea></textarea>
+            </div>
+
+            <div>
+                <input type="submit" value="Gönder">
+            </div>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript'e Giriş</title>
+    <link rel="stylesheet" href="script.js">
+</head>
+
+<body>
+    <h1>Giriş</h1>
+    <p id="header-text">Merhaba JavaScript!</p>
+    <button onclick="alert('Tıkladın!')">Tıkla</button>
+    <button onclick="changeText()">Buna da tıkla</button>
+    <button id="button-external">E hadi buna da tıkla bari!</button>
+
+
+    <script>
+        //Burası JavaScript kodlarının yazılabileceği yer
+        function changeText() {
+            document.getElementById('header-text').innerText = 'İşte yazı değişti';
+        }
+    </script>
+</body>
+
+</html>
