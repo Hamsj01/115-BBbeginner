@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kapsayıcı ve Kenarlık Özellikler</title>
+        <style>
+    /* Kenarlık
+    border: Kenarlık ekler (örneğin 1px solid black).
+    border-radius: Kenarları yuvarlar.
+    border-width: Kenarlık kalınlığını ayarlar.
+    border-style: Kenarlık stilini belirler (örneğin dashed).
+    border-color: Kenarlık rengini belirler.
+    Margin, Padding ve Border Farkları
+    Margin: Kutunun dışındaki boşluktur.
+    Padding: Kutunun içindeki boşluktur.
+    Border: Kutuyu çevreleyen çizgidir. */
+      #border{ 
+        font-size: 50px;
+        border: 10px solid black;
+        border-radius: 30%;
+        border-style: dotted;
+        border-color: aqua;
+      }
+      .margin{
+        border: 10px solid yellow;
+        border-radius: 30%;
+        margin: 25px;
+        font-size: 50px;
+        border-style: dotted;
+      }
+      #padding{
+        padding: 50px;
+        font-size: 50px;
+        border: 10px solid black;
+        border-radius: 30%;
+        border-style: dotted;
+        border-color: green;
+      }
+
+
+        </style>
+</head>
+<body>
+    
+    <p id="border">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, optio!</p>
+
+    <p class="margin">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, optio!</p>
+
+    <p id="padding">Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, optio!</p>
+
+</body>
+</html>

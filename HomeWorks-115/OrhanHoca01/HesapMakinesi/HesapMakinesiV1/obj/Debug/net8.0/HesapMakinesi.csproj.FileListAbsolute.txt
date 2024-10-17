@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.exe
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.deps.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.runtimeconfig.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\bin\Debug\net8.0\HesapMakinesi.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.sourcelink.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\refint\HesapMakinesi.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\HesapMakinesi.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesi\obj\Debug\net8.0\ref\HesapMakinesi.dll

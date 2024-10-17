@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\bin\Debug\net8.0\maxmin.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\bin\Debug\net8.0\maxmin.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\bin\Debug\net8.0\maxmin.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\bin\Debug\net8.0\maxmin.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\bin\Debug\net8.0\maxmin.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\refint\maxmin.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\maxmin.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\maxmin\maxmin\obj\Debug\net8.0\ref\maxmin.dll

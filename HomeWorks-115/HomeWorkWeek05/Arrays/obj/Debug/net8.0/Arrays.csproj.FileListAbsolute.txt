@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Arrays\obj\Debug\net8.0\ref\Arrays.dll

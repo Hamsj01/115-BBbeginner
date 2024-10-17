@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\bin\Debug\net8.0\AlışverişHesaplama.exe
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\bin\Debug\net8.0\AlışverişHesaplama.deps.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\bin\Debug\net8.0\AlışverişHesaplama.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\bin\Debug\net8.0\AlışverişHesaplama.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\bin\Debug\net8.0\AlışverişHesaplama.pdb
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\refint\AlışverişHesaplama.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.pdb
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\AlışverişHesaplama.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\AlışverişHesaplama\obj\Debug\net8.0\ref\AlışverişHesaplama.dll

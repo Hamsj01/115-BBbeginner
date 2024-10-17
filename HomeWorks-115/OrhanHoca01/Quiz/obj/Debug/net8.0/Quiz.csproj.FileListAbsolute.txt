@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\bin\Debug\net8.0\Quiz.exe
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\bin\Debug\net8.0\Quiz.deps.json
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\bin\Debug\net8.0\Quiz.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\bin\Debug\net8.0\Quiz.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\Quiz\obj\Debug\net8.0\ref\Quiz.dll

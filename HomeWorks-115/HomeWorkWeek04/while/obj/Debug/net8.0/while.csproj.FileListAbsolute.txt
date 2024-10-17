@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\bin\Debug\net8.0\while.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\bin\Debug\net8.0\while.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\bin\Debug\net8.0\while.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\bin\Debug\net8.0\while.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\bin\Debug\net8.0\while.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\refint\while.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek04\while\obj\Debug\net8.0\ref\while.dll

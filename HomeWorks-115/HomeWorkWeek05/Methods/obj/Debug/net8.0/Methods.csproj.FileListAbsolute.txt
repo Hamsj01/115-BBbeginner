@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\bin\Debug\net8.0\Methods.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\bin\Debug\net8.0\Methods.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\bin\Debug\net8.0\Methods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\bin\Debug\net8.0\Methods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\refint\Methods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek05\Methods\obj\Debug\net8.0\ref\Methods.dll

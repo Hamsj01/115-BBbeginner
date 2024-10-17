@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\bin\Debug\net8.0\NumberMethods.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\bin\Debug\net8.0\NumberMethods.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\bin\Debug\net8.0\NumberMethods.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\bin\Debug\net8.0\NumberMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\bin\Debug\net8.0\NumberMethods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\refint\NumberMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\NumberMethods.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\NumberMethods\obj\Debug\net8.0\ref\NumberMethods.dll

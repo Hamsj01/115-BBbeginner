@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Seçicileri ve Kullanımı</title>
+        <style>
+            /* Element Seçicisi: Belirli bir HTML elementini seçer. p{}*/
+            p {
+            color: blue;
+            font-size: 10px; 
+            }
+
+            /* Class Seçicisi (.class): Belirli bir sınıfa sahip elemanları seçer. */
+            .my-class {
+            background-color: yellow;
+            }
+            /* ID Seçicisi (#id): Belirli bir ID'ye sahip elemanları seçer (benzersiz olmalıdır). */
+            #my-id {
+            font-size: 47px;
+            }
+
+            /* Element.class: Belirli bir element ve sınıfa sahip olanları seçer. */
+            p.highlight {
+            color: red;
+            }
+
+            /* Element#id: Hem belirli bir element hem de belirli bir ID'ye sahip olanları seçer. */
+            div#container {
+            margin: 10px;
+            }
+
+            /* :hover: Bir elementin üzerine gelindiğinde stil değiştirir. */
+            button:hover {
+            background-color: green;
+            }
+
+            /* :focus: Bir elemente odaklanıldığında (örneğin bir input tıklandığında) stil değiştirir. */
+            input:focus {
+                background-color: rgb(20, 211, 30);
+            }
+
+            /* :active: Bir element tıklandığında stil değiştirir. */
+            a:active {
+            color: red;
+            }
+
+        </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur, eius.</p>
+    <div class="my-class">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni sunt sequi iste, repudiandae autem ducimus explicabo veritatis tenetur illum est iusto nam vitae nulla iure.</div>
+    <p id="my-id">
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, recusandae voluptatum odio dolorum inventore provident ad consequatur aliquam velit autem officiis quia numquam expedita rem.</p>
+    <input type="text" placeholder="Click to focus">
+    <a href="https://www.twitter.com">Click me!</a>
+
+        
+      
+
+</body>
+</html>

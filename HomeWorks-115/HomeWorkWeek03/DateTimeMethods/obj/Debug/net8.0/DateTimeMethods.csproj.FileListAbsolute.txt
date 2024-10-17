@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\bin\Debug\net8.0\DateTimeMethods.exe
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\bin\Debug\net8.0\DateTimeMethods.deps.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\bin\Debug\net8.0\DateTimeMethods.runtimeconfig.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\bin\Debug\net8.0\DateTimeMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\bin\Debug\net8.0\DateTimeMethods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.sourcelink.json
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\refint\DateTimeMethods.dll
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.pdb
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\DateTimeMethods.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\HomeWorkWeek03\DateTimeMethods\obj\Debug\net8.0\ref\DateTimeMethods.dll

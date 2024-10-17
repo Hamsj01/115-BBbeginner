@@ -1,0 +1,15 @@
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\bin\Debug\net8.0\HesapMakinesiV2.exe
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\bin\Debug\net8.0\HesapMakinesiV2.deps.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\bin\Debug\net8.0\HesapMakinesiV2.runtimeconfig.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\bin\Debug\net8.0\HesapMakinesiV2.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\bin\Debug\net8.0\HesapMakinesiV2.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.AssemblyInfoInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.AssemblyInfo.cs
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.csproj.CoreCompileInputs.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.sourcelink.json
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\refint\HesapMakinesiV2.dll
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.pdb
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\HesapMakinesiV2.genruntimeconfig.cache
+D:\Hamsj\HomeWorks\OrhanHoca01\HesapMakinesiV2\obj\Debug\net8.0\ref\HesapMakinesiV2.dll

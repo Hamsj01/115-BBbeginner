@@ -1,0 +1,15 @@
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\bin\Debug\net8.0\TaşKağıtMakas.exe
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\bin\Debug\net8.0\TaşKağıtMakas.deps.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\bin\Debug\net8.0\TaşKağıtMakas.runtimeconfig.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\bin\Debug\net8.0\TaşKağıtMakas.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\bin\Debug\net8.0\TaşKağıtMakas.pdb
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.AssemblyInfoInputs.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.AssemblyInfo.cs
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.sourcelink.json
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\refint\TaşKağıtMakas.dll
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.pdb
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\TaşKağıtMakas.genruntimeconfig.cache
+C:\Users\mirac\Desktop\hamsj\HomeWorks\OrhanHoca01\TaşKağıtMakas\obj\Debug\net8.0\ref\TaşKağıtMakas.dll

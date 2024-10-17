@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model ve Layout</title>
+        <style>
+          .box-model {
+          width: 200px;             /* İçeriğin genişliği (Content) */
+          padding: 20px;            /* İçeriğin çevresindeki boşluk (Padding) */
+          border: 10px solid black;   /* Padding'in çevresindeki çerçeve (Border) */
+          margin: 30px;             /* Border'ın dışındaki boşluk (Margin) */
+          background-color: lightgray;}
+
+          /* block: Element bloğun tamamını kaplar. */
+          div {
+          display: block;
+          }   
+
+          /* inline: Element genişliği kadar yer kaplar. */
+          span {
+          display: inline;
+          }
+
+          img {
+          display: inline-block;
+          }
+
+          /* none: Elementi tamamen gizler. */
+          h1 {
+          display: none;
+          }
+
+          /* static: Varsayılan pozisyondur.
+          relative: Kendi normal konumuna göre yer değiştirir.
+          absolute: En yakın konumlandırılmış ana elemanına göre yer değiştirir.
+          fixed: Ekrana sabitlenir, kaydırılsa bile yer değiştirmez.
+          sticky: Hem relative hem de fixed pozisyon özelliklerini birleştirir. */
+
+
+
+        </style>
+</head>
+<body>
+    <div class="box-model">
+         box model diyagramı
+      </div>
+      
+      <span>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam corporis ducimus cum asperiores consectetur sapiente deserunt quaerat, facere, vitae accusantium eos, beatae facilis. Atque quia laboriosam dolore perferendis vero, quos reprehenderit ullam corporis libero pariatur delectus repudiandae soluta explicabo non minima numquam tenetur repellat veritatis aperiam deleniti fugiat in omnis quae. Reiciendis quas blanditiis a eius debitis assumenda maiores dolor et eaque cum. Corporis architecto aliquid voluptatibus aut sunt fuga culpa cum dolorum similique voluptatem nulla corrupti eveniet, labore perspiciatis est tempora nesciunt iusto qui sed atque accusamus itaque dignissimos! Libero inventore dolores enim eaque fugit ullam, deleniti amet veritatis.</span>
+      <img src="https://picsum.photos/id/17/50/50" alt="">
+      <h1>Kalemler ve silgilerin en gizli sırrı web sitesinde</h1>
+
+
+</body>
+</html>
