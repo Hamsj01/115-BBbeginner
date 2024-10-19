@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Seçiciler</title>
+</head>
+
+<body>
+    <h1>jQuery Seçiciler</h1>
+    <p>jQuery hızlı performanslı ve kısa bir şekilde JS kodları yazabilmemizi sağlayan bir kütüphanedir.</p>
+    <h2>jQuery nasıl ekleni?</h2>
+    <ol>
+        <li>jQuery dosyasını indirip proje klasörüne koyarak</li>
+        <li>CDN linki kullanarak</li>
+
+    </ol>
+    <h2 id="title">Id' ye göre seçme</h2>
+    <p id="message" class="message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi harum quas doloribus velit distinctio placeat perspiciatis in nihil, inventore officia non dolorum temporibus voluptatibus, neque dolores dolor ut reiciendis adipisci!</p>
+    <h2 id=""title>Deneme</h2>
+    <p class="message">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non porro tenetur nemo quas officia? Tempora ducimus omnis expedita nostrum obcaecati commodi eveniet maiores deleniti numquam.</p>
+
+    
+    <script scr="jquery.js"></script>
+    <script>
+        $('div').text('Yeni Metin')
+        $('#mtitle').text('jQuery kullanarak ID Seçme')
+        $('message').text('yeni mesaj')
+        $('.message').text('Bunu da class ile seçtik')
+        const title=$('#tittle')
+        
+    </script>
+
+</body>
+
+</html>

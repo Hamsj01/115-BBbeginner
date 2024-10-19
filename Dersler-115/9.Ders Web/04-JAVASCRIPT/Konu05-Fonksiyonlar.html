@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fonksiyonlar</title>
+</head>
+
+<body>
+    <h1>Function</h1>
+    <button onclick="changemode('black','white')">Dark Mode</button>
+    <button onclick="changemode('white','black')">Light Mode</button>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati fuga itaque autem velit ducimus repellendus, quam ipsam culpa, dolor cupiditate voluptatem dolores amet aliquam eos, dolorum laboriosam tenetur rem quibusdam nisi quidem adipisci enim. Facere aperiam corrupti architecto aliquam harum, veritatis modi voluptatum odio deserunt quibusdam, magnam quos excepturi voluptatibus sequi repellat vero nulla assumenda. Iure possimus voluptatibus modi eaque dolorum odio fuga repellat commodi, officia deserunt placeat vel sequi accusantium libero! Placeat eum neque dolorum dolorem. Vero fuga veniam, nihil reprehenderit tempora non provident laudantium distinctio minima omnis aperiam esse debitis quam magni. Voluptas obcaecati voluptatibus molestias accusamus porro, cupiditate necessitatibus? Voluptatum quisquam vel animi dolorem deserunt aspernatur distinctio. Ipsa qui quidem excepturi consectetur ipsum minus sit animi fugit dignissimos iure, beatae odit ab explicabo perferendis at quibusdam voluptate magnam, dolores labore dolorum impedit nam totam modi ullam. Tempore alias quam voluptate dolorem accusamus possimus voluptatum quas vel culpa quisquam magnam aut nam distinctio esse nisi, saepe, mollitia officia quaerat odio molestias eveniet iusto expedita. Officiis architecto autem quod reprehenderit consectetur, aliquam ipsam. A fugit beatae quibusdam? Similique quas sint alias amet! Numquam qui excepturi, minima commodi similique possimus asperiores consequatur, facilis nulla adipisci rerum dolore, delectus impedit. Tempora et cum quia exercitationem quaerat voluptatibus corrupti esse placeat molestiae omnis consequuntur, odio nihil! Quod quia quibusdam sapiente dicta architecto amet neque itaque vero eos doloremque commodi unde, ratione cupiditate minima accusantium ea facere dolore veniam sit necessitatibus eveniet adipisci. In hic eum cumque quis soluta quo unde, atque sunt minus necessitatibus aliquid nam dicta eligendi quasi libero accusamus corporis alias ab perferendis repellendus, provident tenetur voluptatum recusandae. Suscipit consequatur fuga nisi illum blanditiis sed at deleniti cumque non reprehenderit totam, incidunt repudiandae tempore! Voluptatum corporis voluptate debitis assumenda ratione ab recusandae omnis id nisi sapiente. Repellat quis tempore suscipit ipsa, unde quo odio quidem voluptatibus, perspiciatis quos quasi ducimus dolorem cum fuga cumque atque. Quae odit eaque ad animi molestias totam repellat harum, a exercitationem delectus nisi voluptas nam eius tempora! Nesciunt quo itaque consectetur hic, voluptatibus eligendi! Facere nobis sapiente vel placeat harum dolor eum porro. Ipsum minima omnis nostrum impedit dolore officia expedita eligendi porro eos nam mollitia facere harum facilis cumque pariatur nisi, quia nemo sunt nulla? Quia fugit non autem voluptatum possimus commodi totam in consequuntur delectus adipisci, soluta, laudantium labore quo, aut sint libero amet molestiae iste! Excepturi praesentium cum reiciendis illum nesciunt et recusandae ipsum? Dicta illo quam asperiores nam maiores repudiandae eaque facere vitae esse, fuga eligendi in modi libero. Libero dolor ex illo id, a molestiae nemo est officia sint. Maiores sit quo rerum! Ratione nam rerum a rem id aut at porro adipisci dolorum error ex, totam, deleniti delectus ullam voluptatem doloribus ea deserunt, eligendi excepturi! Consequuntur unde molestiae beatae facere fugit, saepe a voluptas nihil est reprehenderit cupiditate nulla. Esse tempora, ea odio at veniam voluptate commodi laudantium doloremque inventore est neque culpa ad laborum dolores recusandae, assumenda veritatis. Ullam quam quos est quibusdam officia nam. Ex, similique corrupti.</p>
+
+
+    <script>
+        /*
+        
+            function fonksiyonAdı(parametreler)
+            {
+                çalışıcak kodlar;
+            }
+        
+        */
+
+        function changemode(bgColor, textColor) {
+            document.bgColor=bgColor;
+            document.fgColor=fgColor;
+        }
+
+        function selamVer() {
+            console.log("Merhaba JavaScript") ;  
+        }
+
+        
+        function selamVer2(name) {
+            console.log('Merhaba ' + name);
+            
+        }
+        
+        function yeniSelamVer(name) {
+            if (name==undefined) {
+                console.log('Merhaba JavaScript')
+            }else{
+                console.log(`Merhaba ${name}`) 
+            }
+        }
+        // selamVer();
+        // selamVer2('Alex');
+        // yeniSelamVer('Engin');
+        // yeniSelamVer();
+
+        function topla(sayi1, sayi2) {
+            console.log(sayi1+sayi2);
+        }
+
+        // topla(5,7);
+
+        function sum(number1,number2) {
+            let result = number1+number2;
+            return result;
+        }
+        let sonuc = sum(56,89);
+        console.log(sonuc)
+    </script>
+</body>
+
+</html>

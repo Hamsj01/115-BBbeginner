@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seçiciler</title>
+</head>
+<body>
+    <p id="hello">Merhaba</p>
+
+    <div>1.Div içeriği</div>
+
+    <div>2.Div içeriği</div>
+    
+    <div id="bosDiv" style="border: 1px solid red;">
+    <br><br>
+    <h2 class="baslikli metin1">Elemanları class'larına göre seçme</h2>
+    <p id="metin1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima modi a iste laudantium incidunt nostrum veritatis pariatur esse. Inventore eum omnis consequuntur a, ipsa alias. Possimus in rerum suscipit, impedit repellendus nulla aperiam officia dolore. Dolorum possimus consectetur explicabo fugit, iure, dolorem rerum similique temporibus aliquam unde eligendi officiis soluta?</p>
+    <p id="metin2" class="metin1" style="background-color: aqua;">
+        <a class="link" href="#">Link1</a>
+        <ul>
+            <li>Anasayfa</li>
+            <li>Hakkında</li>
+            <li>İletişim</li>
+        </ul>
+        <ul>
+            <a href="#">Link2</a>
+            <a href="#">Link3</a>
+        </ul>
+        <div class="menu-container"></div>
+        <ul class="menu">
+            <li class="menu-item"></li>
+            <li class="menu-item"></li>
+            <li class="menu-item"></li>
+        </ul>
+        </div>
+
+        <a href="#">Link4</a>
+
+        <script>
+            // const helloElement=document.getElementById('hello');
+            // hello.style.backgroundColor='aqua'
+            // hello.style.padding='20px'
+            // hello.style.color='red'
+            // hello.innerText='Merhaba, JavaScript';
+            // hello.innerHTML='<h1 style="color:blue";>selam</h1>';
+            
+            // const allDivs=document.getElementsByTagName('div');
+            // console.log(alldDivs);
+            // const allH2s = document.getElementById('h2')
+            // console.log(allH2s);
+
+            // const bosDivElementi = document.getElementById('bosDiv')
+            // bosDiv.innerHTML=`
+            // <a href="https://www.google.com"></a>
+            // `;
+
+            // const allBaslik1=document.getElementsByClassName('baslik1');
+            // console.log(allBaslik1);
+            // const allMetin1=document.getElementsByClassName('metin1')
+            // console.log(allMetin1)
+
+            //CSS Sorgularına göre elemnt seçmek
+            const allA=document.getElementsByTagName('a')
+            console.log(allA);
+            const allA2=document.querySelectorAll('a');//element
+            console.log(allA2);
+
+            const allMenuItem=document.getElementsByClassName('menu-item')
+            console.log(allMenuItem)
+            const allMenuItem2=document.querySelectorAll('.menu-item')//class
+            console.log(allMenuItem2)
+
+            const metin1= document.getElementById('metin1');
+            console.log(metin1);
+
+            const allMetin1= document.querySelectorAll('#metin1')
+            console.log(allMetin1);
+            
+        </script>  
+    </p>
+</body>
+</html>
