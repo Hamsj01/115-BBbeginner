@@ -96,7 +96,7 @@ body {
     align-items: center;
 }
 
-.message-text { 
+.message-text {
     font-size: 10px;
     text-align: center;
     color: whitesmoke;
@@ -105,10 +105,4 @@ body {
 
 .content-right {
     width: 80%;
-    display: flex;
-}
-
-.product-card{
-    background-color: red;
-    width:25%;
 }
