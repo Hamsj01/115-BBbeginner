@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Project01_MVC_WithCLI.props" />
+</Project>
