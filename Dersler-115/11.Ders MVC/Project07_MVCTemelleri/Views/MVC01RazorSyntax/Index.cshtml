@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Index";
+    string firstName="Ayşe";
+    bool isStatus;
+    if(firstName!="Ali"){
+        isStatus=true;
+    }else{
+        isStatus=false;
+    }
+}
+
+@* Uzantısı .cshtml olan bu dosyalara Razor View dosyası diyoruz. *@
+<h1>Razor Syntax</h1>
+<h2>@firstName</h2>
+<h2>@isStatus</h2>
+@{
+   string[] names=["Ali","Veli","Canan","Kübra"];
+}
+
+
+@foreach(var name in names){
+    <button class="btn btn-success">@name</button>
+}
+
+
+@if(isStatus){
+    <div class="alert alert-success mt-3">İşlem başarıyla tamamanlandı!</div>
+}else{
+    <div class="alert alert-danger mt-3">Bir hata oluştu!</div>
+}

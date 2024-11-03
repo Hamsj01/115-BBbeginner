@@ -1,0 +1,14 @@
+﻿@{
+    List<MenuItemModel> menuList = [
+    new MenuItemModel{ControllerName="Home", ActionName="Index",Text="Ana Sayfa"},
+new MenuItemModel{ControllerName="MVC01RazorSyntax",ActionName="Index",Text="Razor"},
+new MenuItemModel{ControllerName="MVC02HtmlAndTagHelpers",ActionName="Index",Text="Helpers"},
+new MenuItemModel{ControllerName="MVC03DataTransfer",ActionName="Index",Text="Data Transfer"},
+new MenuItemModel{ControllerName="MVC03DataTransfer", ActionName="HomePage", Text="Deneme Ana Sayfa"}
+    ];
+}
+@foreach (var item in menuList)
+{
+    @await Html.PartialAsync("_MenuItemPartial", item)
+    ;
+}
