@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\css\\main.css",
+      "PackagePath": "staticwebassets\\ui\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\about-img.png",
+      "PackagePath": "staticwebassets\\ui\\img\\about-img.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\ui\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\ui\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\ui\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\ui\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ui\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\masonry-portfolio\\masonry-portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\masonry-portfolio\\masonry-portfolio-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project6.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project7.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\projects\\project8.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\projects\\project8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\skills-img.png",
+      "PackagePath": "staticwebassets\\ui\\img\\skills-img.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\ui\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\img\\why-us.png",
+      "PackagePath": "staticwebassets\\ui\\img\\why-us.png"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\js\\main.js",
+      "PackagePath": "staticwebassets\\ui\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\ui\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\ui\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mirac\\Desktop\\hamsj\\115-BBbegineer\\Dersler-115\\12.Ders MVC\\Project09_PortfolioApp\\wwwroot\\ui\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\ui\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project08_PortfolioApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project08_PortfolioApp.props",
+      "PackagePath": "build\\Project08_PortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project08_PortfolioApp.props",
+      "PackagePath": "buildMultiTargeting\\Project08_PortfolioApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project08_PortfolioApp.props",
+      "PackagePath": "buildTransitive\\Project08_PortfolioApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

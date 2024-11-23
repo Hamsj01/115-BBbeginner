@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Project08_PortfolioApp
+build_property.RootNamespace = Project08_PortfolioApp
+build_property.ProjectDir = C:\Users\mirac\Desktop\hamsj\115-BBbegineer\Dersler-115\13.Ders MVC\Project08_PortfolioApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mirac\Desktop\hamsj\115-BBbegineer\Dersler-115\13.Ders MVC\Project08_PortfolioApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/Components/UserInfo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlckluZm9cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_BacktoTopPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9CYWNrdG9Ub3BQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9OYXZiYXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_SideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TaWRlQmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_SpinnerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TcGlubmVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/Shared/_StylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9TdHlsZXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_HeaderMenuPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJNZW51UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_ScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_ScrollPrePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY3JvbGxQcmVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_StylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHlsZXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mirac/Desktop/hamsj/115-BBbegineer/Dersler-115/13.Ders MVC/Project08_PortfolioApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
